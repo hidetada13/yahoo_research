@@ -3,3 +3,4 @@
 first-update
 second-update
 no-fast-forward!!
+コンフリクトのために変更
